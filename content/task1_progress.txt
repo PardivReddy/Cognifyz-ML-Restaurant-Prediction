@@ -1,0 +1,4 @@
+Task 1 Completion Report
+Mean Squared Error: 1.1201694876761885
+R-squared Score: 0.5108498967311825
+Preprocessed data and model saved locally. Fixed string-to-float error.
